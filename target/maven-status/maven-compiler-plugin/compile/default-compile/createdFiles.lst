@@ -1,0 +1,9 @@
+com\techelevator\Wallet.class
+com\techelevator\VendingMachineCLI.class
+com\techelevator\Item.class
+com\techelevator\ShoppingCart.class
+com\techelevator\Logger.class
+com\techelevator\Menu.class
+com\techelevator\PurchaseMenu.class
+com\techelevator\Inventory.class
+com\techelevator\MainMenu.class

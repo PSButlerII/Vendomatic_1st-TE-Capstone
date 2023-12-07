@@ -1,7 +1,7 @@
 package com.techelevator;
 
-import java.io.PrintWriter;
 import java.util.Scanner;
+import java.util.UUID;
 
 /*
  * This class is provided to you as a *suggested* class to start
@@ -32,6 +32,7 @@ public class VendingMachineCLI {
 		MainMenu menu =	new MainMenu();
 		Scanner scanner = new Scanner(System.in);
 		boolean keepRunning = true;
+		UUID uuid = UUID.randomUUID();
 		// Using the loop that Eric recommended
 		while(keepRunning){
 			System.out.println("WELCOME \nPlease make a selection.\n");
